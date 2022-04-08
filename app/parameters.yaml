@@ -1,8 +1,0 @@
-TARGET_NAME: 'manufacturer'
-DIR:
-  DATA_DIR: 'dataset/data'
-  MODELS_DIR: 'models'
-IMAGE_DIM:
-  IMAGE_WIDTH: 128
-  IMAGE_HEIGHT: 128
-  IMAGE_DEPTH: 3
