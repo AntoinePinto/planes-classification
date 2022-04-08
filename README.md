@@ -14,4 +14,8 @@ The objective is to predict the manufacturer and the family of an aircraft. On t
 }
 ```
 
+This study is developped into a Streamlit Dashboard at this link : https://share.streamlit.io/antoinepinto/planes-classification/main/app/app.py. The Dashboard is linked to the current repository with the application in the folder "app".
+
+In the Dashboard, the user can choose to predict the manufacturer or the family and to choose which model to use (CNN, SVM or the model coming from Transfer Learning). The probability distribution is displayed.
+
 
